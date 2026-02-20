@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T14:51:42.765751+00:00",
+  "lastUpdated": "2026-02-20T15:36:19.763358+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -17,7 +17,7 @@
       "name": "SPDR Bloomberg 1-3 Month T-Bill",
       "type": "treasury",
       "stateExempt": true,
-      "price": 91.54,
+      "price": 91.53,
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
