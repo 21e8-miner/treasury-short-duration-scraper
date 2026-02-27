@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T17:34:30.860361+00:00",
+  "lastUpdated": "2026-02-27T18:40:19.758893+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -32,7 +32,7 @@
       "yield": 4.17,
       "duration": 0.27,
       "expense": 0.15,
-      "aum": "N/A"
+      "aum": "20.0B"
     },
     {
       "ticker": "GBIL",
