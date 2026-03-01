@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T17:21:18.498770+00:00",
+  "lastUpdated": "2026-03-01T18:31:10.304591+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -28,7 +28,7 @@
       "name": "iShares Short Treasury Bond",
       "type": "treasury",
       "stateExempt": true,
-      "price": 110.37,
+      "price": 110.36,
       "yield": 4.17,
       "duration": 0.27,
       "expense": 0.15,
