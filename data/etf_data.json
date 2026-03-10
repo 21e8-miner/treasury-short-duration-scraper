@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T01:52:19.295719+00:00",
+  "lastUpdated": "2026-03-10T04:08:33.238298+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -61,11 +61,11 @@
       "name": "BondBloxx Bloomberg One Year Treasury",
       "type": "treasury",
       "stateExempt": true,
-      "price": 49.56,
+      "price": 49.49,
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "1.2B"
+      "aum": "753M"
     },
     {
       "ticker": "FTSD",
