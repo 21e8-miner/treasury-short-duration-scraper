@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T14:06:30.417009+00:00",
+  "lastUpdated": "2026-03-11T15:46:08.567880+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -39,7 +39,7 @@
       "name": "Goldman Sachs Access Treasury 0-1 Year",
       "type": "treasury",
       "stateExempt": true,
-      "price": 100.01,
+      "price": 100.02,
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
@@ -61,7 +61,7 @@
       "name": "BondBloxx Bloomberg One Year Treasury",
       "type": "treasury",
       "stateExempt": true,
-      "price": 49.49,
+      "price": 49.48,
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
@@ -193,7 +193,7 @@
       "name": "Vanguard Ultra-Short Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 49.81,
+      "price": 49.8,
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
