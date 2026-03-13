@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T06:51:27.397874+00:00",
+  "lastUpdated": "2026-03-13T07:44:01.840873+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -65,7 +65,7 @@
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "753M"
+      "aum": "N/A"
     },
     {
       "ticker": "FTSD",
@@ -131,7 +131,7 @@
       "yield": 4.92,
       "duration": 0.48,
       "expense": 0.18,
-      "aum": "37.4B"
+      "aum": "7.5B"
     },
     {
       "ticker": "MINT",
@@ -208,7 +208,7 @@
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "27.2B"
+      "aum": "N/A"
     },
     {
       "ticker": "CLOA",
@@ -219,7 +219,7 @@
       "yield": 5.6,
       "duration": 0.1,
       "expense": 0.2,
-      "aum": "1.6B"
+      "aum": "N/A"
     },
     {
       "ticker": "JBBB",
@@ -230,7 +230,7 @@
       "yield": 6.2,
       "duration": 0.1,
       "expense": 0.49,
-      "aum": "1.1B"
+      "aum": "N/A"
     },
     {
       "ticker": "BOXX",
