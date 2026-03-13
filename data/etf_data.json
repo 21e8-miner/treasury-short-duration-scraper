@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T07:44:01.840873+00:00",
+  "lastUpdated": "2026-03-13T08:37:35.045966+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -43,7 +43,7 @@
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
-      "aum": "7.1B"
+      "aum": "N/A"
     },
     {
       "ticker": "SCHO",
@@ -76,7 +76,7 @@
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "276M"
+      "aum": "N/A"
     },
     {
       "ticker": "USFR",
@@ -142,7 +142,7 @@
       "yield": 4.98,
       "duration": 0.24,
       "expense": 0.36,
-      "aum": "15.0B"
+      "aum": "N/A"
     },
     {
       "ticker": "ICSH",
@@ -153,7 +153,7 @@
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "7.1B"
+      "aum": "N/A"
     },
     {
       "ticker": "GSY",
@@ -164,7 +164,7 @@
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "3.4B"
+      "aum": "N/A"
     },
     {
       "ticker": "NEAR",
@@ -175,7 +175,7 @@
       "yield": 4.85,
       "duration": 0.52,
       "expense": 0.25,
-      "aum": "4.1B"
+      "aum": "N/A"
     },
     {
       "ticker": "FTSM",
@@ -186,7 +186,7 @@
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
-      "aum": "6.3B"
+      "aum": "N/A"
     },
     {
       "ticker": "VUSB",
@@ -197,7 +197,7 @@
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
-      "aum": "8.0B"
+      "aum": "N/A"
     },
     {
       "ticker": "JAAA",
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "10.2B"
+      "aum": "N/A"
     },
     {
       "ticker": "GFUND",
