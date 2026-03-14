@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T10:26:16.166002+00:00",
+  "lastUpdated": "2026-03-14T11:23:05.573073+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -43,7 +43,7 @@
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
-      "aum": "N/A"
+      "aum": "7.1B"
     },
     {
       "ticker": "SCHO",
@@ -65,7 +65,7 @@
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "N/A"
+      "aum": "753M"
     },
     {
       "ticker": "FTSD",
@@ -76,7 +76,7 @@
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "N/A"
+      "aum": "276M"
     },
     {
       "ticker": "USFR",
@@ -131,7 +131,7 @@
       "yield": 4.92,
       "duration": 0.48,
       "expense": 0.18,
-      "aum": "7.5B"
+      "aum": "37.4B"
     },
     {
       "ticker": "MINT",
@@ -142,7 +142,7 @@
       "yield": 4.98,
       "duration": 0.24,
       "expense": 0.36,
-      "aum": "N/A"
+      "aum": "15.0B"
     },
     {
       "ticker": "ICSH",
@@ -153,7 +153,7 @@
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "N/A"
+      "aum": "7.1B"
     },
     {
       "ticker": "GSY",
@@ -164,7 +164,7 @@
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "N/A"
+      "aum": "3.4B"
     },
     {
       "ticker": "NEAR",
@@ -175,7 +175,7 @@
       "yield": 4.85,
       "duration": 0.52,
       "expense": 0.25,
-      "aum": "N/A"
+      "aum": "4.1B"
     },
     {
       "ticker": "FTSM",
@@ -186,7 +186,7 @@
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
-      "aum": "N/A"
+      "aum": "6.3B"
     },
     {
       "ticker": "VUSB",
@@ -197,7 +197,7 @@
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
-      "aum": "N/A"
+      "aum": "8.0B"
     },
     {
       "ticker": "JAAA",
@@ -208,7 +208,7 @@
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "N/A"
+      "aum": "27.2B"
     },
     {
       "ticker": "CLOA",
@@ -219,7 +219,7 @@
       "yield": 5.6,
       "duration": 0.1,
       "expense": 0.2,
-      "aum": "N/A"
+      "aum": "1.6B"
     },
     {
       "ticker": "JBBB",
@@ -230,7 +230,7 @@
       "yield": 6.2,
       "duration": 0.1,
       "expense": 0.49,
-      "aum": "N/A"
+      "aum": "1.1B"
     },
     {
       "ticker": "BOXX",
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "N/A"
+      "aum": "10.2B"
     },
     {
       "ticker": "GFUND",
