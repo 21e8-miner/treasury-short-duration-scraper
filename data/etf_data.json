@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T08:03:59.623262+00:00",
+  "lastUpdated": "2026-04-20T10:46:37.032010+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -182,7 +182,7 @@
       "name": "First Trust Enhanced Short Maturity ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 59.88,
+      "price": 59.92,
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
