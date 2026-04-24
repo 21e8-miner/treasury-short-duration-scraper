@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T19:51:02.121003+00:00",
+  "lastUpdated": "2026-04-24T20:44:24.240684+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -72,7 +72,7 @@
       "name": "Franklin Short Duration U.S. Govt ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 90.75,
+      "price": 90.71,
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
