@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T13:46:48.475455+00:00",
+  "lastUpdated": "2026-05-06T14:05:35.699131+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -160,7 +160,7 @@
       "name": "Invesco Ultra Short Duration ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.16,
+      "price": 50.17,
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
