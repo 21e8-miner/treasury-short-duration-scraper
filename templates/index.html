@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treasury Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Treasury Data Dashboard</h1>
+    <canvas id="treasuryChart" width="800" height="400"></canvas>
+
+    <script>
+        const ctx = document.getElementById('treasuryChart').getContext('2d');
+        const treasuryDataChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [], // Timestamps
+                datasets: [{
+                    label: 'Real-Time Treasury Data',
+                    data: [], // Treasury values
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: {
+                        type: 'time',
+                        time: {
+                            unit: 'minute'
+                        }
+                    },
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Function to fetch data from the backend and update the chart
+        async function fetchAndUpdateData() {
+            try {
+                const response = await fetch('/api/treasury-data'); // Replace with backend endpoint
+                const data = await response.json();
+                // Example data processing
+                treasuryDataChart.data.labels.push(new Date());
+                treasuryDataChart.data.datasets[0].data.push(data.value);
+                treasuryDataChart.update();
+            } catch (error) {
+                console.error("Error fetching real-time data:", error);
+            }
+        }
+
+        // Update chart every 10 seconds
+        setInterval(fetchAndUpdateData, 10000);
+    </script>
+</body>
+</html>
