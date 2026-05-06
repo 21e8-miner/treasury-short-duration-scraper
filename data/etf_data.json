@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-05-06T11:05:05.379366+00:00",
+  "lastUpdated": "2026-05-06T13:38:44.548509+00:00",
   "products": [
     {
       "ticker": "SGOV",
       "name": "iShares 0-3 Month Treasury Bond",
       "type": "treasury",
       "stateExempt": true,
-      "price": 100.42,
+      "price": 100.43,
       "yield": 4.2,
       "duration": 0.05,
       "expense": 0.09,
-      "aum": "83.6B"
+      "aum": "85.2B"
     },
     {
       "ticker": "BIL",
@@ -21,7 +21,7 @@
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
-      "aum": "50.0B"
+      "aum": "46.4B"
     },
     {
       "ticker": "SHV",
@@ -32,14 +32,14 @@
       "yield": 4.17,
       "duration": 0.27,
       "expense": 0.15,
-      "aum": "20.9B"
+      "aum": "20.6B"
     },
     {
       "ticker": "GBIL",
       "name": "Goldman Sachs Access Treasury 0-1 Year",
       "type": "treasury",
       "stateExempt": true,
-      "price": 99.93,
+      "price": 99.94,
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
@@ -50,7 +50,7 @@
       "name": "Schwab Short-Term U.S. Treasury ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 24.15,
+      "price": 24.16,
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
@@ -65,18 +65,18 @@
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "753M"
+      "aum": "721M"
     },
     {
       "ticker": "FTSD",
       "name": "Franklin Short Duration U.S. Govt ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 90.31,
+      "price": 90.36,
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "281M"
+      "aum": "283M"
     },
     {
       "ticker": "USFR",
@@ -87,25 +87,25 @@
       "yield": 4.28,
       "duration": 0.02,
       "expense": 0.15,
-      "aum": "17.6B"
+      "aum": "17.0B"
     },
     {
       "ticker": "TFLO",
       "name": "iShares Treasury Floating Rate Bond",
       "type": "float",
       "stateExempt": true,
-      "price": 50.5,
+      "price": 50.51,
       "yield": 4.28,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "6.8B"
+      "aum": "6.7B"
     },
     {
       "ticker": "FLRN",
       "name": "SPDR Bloomberg IG Floating Rate ETF",
       "type": "float",
       "stateExempt": false,
-      "price": 30.74,
+      "price": 30.75,
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
@@ -116,7 +116,7 @@
       "name": "iShares Floating Rate Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.86,
+      "price": 50.88,
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
@@ -127,33 +127,33 @@
       "name": "JPMorgan Ultra-Short Income ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.43,
+      "price": 50.45,
       "yield": 4.92,
       "duration": 0.48,
       "expense": 0.18,
-      "aum": "37.5B"
+      "aum": "37.6B"
     },
     {
       "ticker": "MINT",
       "name": "PIMCO Enhanced Short Maturity Active",
       "type": "corporate",
       "stateExempt": false,
-      "price": 100.43,
+      "price": 100.45,
       "yield": 4.98,
       "duration": 0.24,
       "expense": 0.36,
-      "aum": "16.0B"
+      "aum": "15.5B"
     },
     {
       "ticker": "ICSH",
       "name": "iShares Ultra Short-Term Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.46,
+      "price": 50.48,
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "7.2B"
+      "aum": "7.3B"
     },
     {
       "ticker": "GSY",
@@ -164,36 +164,36 @@
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "3.6B"
+      "aum": "3.5B"
     },
     {
       "ticker": "NEAR",
       "name": "iShares Short Duration Bond Active",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.66,
+      "price": 50.67,
       "yield": 4.85,
       "duration": 0.52,
       "expense": 0.25,
-      "aum": "4.2B"
+      "aum": "4.3B"
     },
     {
       "ticker": "FTSM",
       "name": "First Trust Enhanced Short Maturity ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 59.78,
+      "price": 59.79,
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
-      "aum": "6.5B"
+      "aum": "6.4B"
     },
     {
       "ticker": "VUSB",
       "name": "Vanguard Ultra-Short Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 49.63,
+      "price": 49.67,
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
@@ -204,29 +204,29 @@
       "name": "Janus Henderson AAA CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 50.54,
+      "price": 50.56,
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "26.7B"
+      "aum": "26.9B"
     },
     {
       "ticker": "CLOA",
       "name": "iShares AAA CLO Active ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 51.79,
+      "price": 51.82,
       "yield": 5.6,
       "duration": 0.1,
       "expense": 0.2,
-      "aum": "1.9B"
+      "aum": "2.1B"
     },
     {
       "ticker": "JBBB",
       "name": "Janus Henderson B-BBB CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 47.33,
+      "price": 47.38,
       "yield": 6.2,
       "duration": 0.1,
       "expense": 0.49,
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "10.6B"
+      "aum": "11.4B"
     },
     {
       "ticker": "GFUND",
