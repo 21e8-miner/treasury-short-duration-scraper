@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T14:06:24.288247+00:00",
+  "lastUpdated": "2026-05-14T16:59:25.843249+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -105,7 +105,7 @@
       "name": "SPDR Bloomberg IG Floating Rate ETF",
       "type": "float",
       "stateExempt": false,
-      "price": 30.77,
+      "price": 30.78,
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
