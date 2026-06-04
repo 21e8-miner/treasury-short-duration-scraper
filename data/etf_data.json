@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T08:19:07.420176+00:00",
+  "lastUpdated": "2026-06-04T11:51:17.623626+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -10,7 +10,7 @@
       "yield": 4.2,
       "duration": 0.05,
       "expense": 0.09,
-      "aum": "85.2B"
+      "aum": "91.9B"
     },
     {
       "ticker": "BIL",
@@ -21,7 +21,7 @@
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
-      "aum": "46.4B"
+      "aum": "46.1B"
     },
     {
       "ticker": "SHV",
@@ -32,7 +32,7 @@
       "yield": 4.17,
       "duration": 0.27,
       "expense": 0.15,
-      "aum": "20.6B"
+      "aum": "20.7B"
     },
     {
       "ticker": "GBIL",
@@ -43,7 +43,7 @@
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
-      "aum": "7.5B"
+      "aum": "7.6B"
     },
     {
       "ticker": "SCHO",
@@ -54,7 +54,7 @@
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
-      "aum": "12.5B"
+      "aum": "13.2B"
     },
     {
       "ticker": "XONE",
@@ -76,7 +76,7 @@
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "283M"
+      "aum": "288M"
     },
     {
       "ticker": "USFR",
@@ -98,7 +98,7 @@
       "yield": 4.28,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "6.7B"
+      "aum": "6.6B"
     },
     {
       "ticker": "FLRN",
@@ -109,7 +109,7 @@
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "2.8B"
+      "aum": "2.9B"
     },
     {
       "ticker": "FLOT",
@@ -120,7 +120,7 @@
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "9.3B"
+      "aum": "9.5B"
     },
     {
       "ticker": "JPST",
@@ -219,7 +219,7 @@
       "yield": 5.6,
       "duration": 0.1,
       "expense": 0.2,
-      "aum": "2.1B"
+      "aum": "2.2B"
     },
     {
       "ticker": "JBBB",
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "11.4B"
+      "aum": "12.1B"
     },
     {
       "ticker": "GFUND",
