@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-04T11:51:17.623626+00:00",
+  "lastUpdated": "2026-06-04T14:55:01.005327+00:00",
   "products": [
     {
       "ticker": "SGOV",
       "name": "iShares 0-3 Month Treasury Bond",
       "type": "treasury",
       "stateExempt": true,
-      "price": 100.4,
+      "price": 100.41,
       "yield": 4.2,
       "duration": 0.05,
       "expense": 0.09,
@@ -17,7 +17,7 @@
       "name": "SPDR Bloomberg 1-3 Month T-Bill",
       "type": "treasury",
       "stateExempt": true,
-      "price": 91.39,
+      "price": 91.41,
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
@@ -39,7 +39,7 @@
       "name": "Goldman Sachs Access Treasury 0-1 Year",
       "type": "treasury",
       "stateExempt": true,
-      "price": 99.91,
+      "price": 99.93,
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
@@ -50,7 +50,7 @@
       "name": "Schwab Short-Term U.S. Treasury ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 24.1,
+      "price": 24.09,
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
@@ -61,18 +61,18 @@
       "name": "BondBloxx Bloomberg One Year Treasury",
       "type": "treasury",
       "stateExempt": true,
-      "price": 49.29,
+      "price": 49.28,
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "721M"
+      "aum": "755M"
     },
     {
       "ticker": "FTSD",
       "name": "Franklin Short Duration U.S. Govt ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 90.25,
+      "price": 90.14,
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
@@ -83,7 +83,7 @@
       "name": "WisdomTree Floating Rate Treasury",
       "type": "float",
       "stateExempt": true,
-      "price": 50.35,
+      "price": 50.36,
       "yield": 4.28,
       "duration": 0.02,
       "expense": 0.15,
@@ -94,7 +94,7 @@
       "name": "iShares Treasury Floating Rate Bond",
       "type": "float",
       "stateExempt": true,
-      "price": 50.49,
+      "price": 50.5,
       "yield": 4.28,
       "duration": 0.01,
       "expense": 0.15,
@@ -105,7 +105,7 @@
       "name": "SPDR Bloomberg IG Floating Rate ETF",
       "type": "float",
       "stateExempt": false,
-      "price": 30.76,
+      "price": 30.77,
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
@@ -116,7 +116,7 @@
       "name": "iShares Floating Rate Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.92,
+      "price": 50.94,
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
@@ -131,7 +131,7 @@
       "yield": 4.92,
       "duration": 0.48,
       "expense": 0.18,
-      "aum": "37.6B"
+      "aum": "38.4B"
     },
     {
       "ticker": "MINT",
@@ -142,7 +142,7 @@
       "yield": 4.98,
       "duration": 0.24,
       "expense": 0.36,
-      "aum": "15.5B"
+      "aum": "16.2B"
     },
     {
       "ticker": "ICSH",
@@ -153,7 +153,7 @@
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "7.3B"
+      "aum": "7.6B"
     },
     {
       "ticker": "GSY",
@@ -175,14 +175,14 @@
       "yield": 4.85,
       "duration": 0.52,
       "expense": 0.25,
-      "aum": "4.3B"
+      "aum": "4.6B"
     },
     {
       "ticker": "FTSM",
       "name": "First Trust Enhanced Short Maturity ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 59.8,
+      "price": 59.77,
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
@@ -193,29 +193,29 @@
       "name": "Vanguard Ultra-Short Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 49.67,
+      "price": 49.66,
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
-      "aum": "8.2B"
+      "aum": "8.8B"
     },
     {
       "ticker": "JAAA",
       "name": "Janus Henderson AAA CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 50.55,
+      "price": 50.54,
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "26.9B"
+      "aum": "27.3B"
     },
     {
       "ticker": "CLOA",
       "name": "iShares AAA CLO Active ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 51.8,
+      "price": 51.81,
       "yield": 5.6,
       "duration": 0.1,
       "expense": 0.2,
@@ -226,11 +226,11 @@
       "name": "Janus Henderson B-BBB CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 47.38,
+      "price": 47.39,
       "yield": 6.2,
       "duration": 0.1,
       "expense": 0.49,
-      "aum": "1.1B"
+      "aum": "1.2B"
     },
     {
       "ticker": "BOXX",
