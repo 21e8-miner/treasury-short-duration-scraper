@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T04:50:37.483352+00:00",
+  "lastUpdated": "2026-07-07T08:21:29.799366+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -10,7 +10,7 @@
       "yield": 4.2,
       "duration": 0.05,
       "expense": 0.09,
-      "aum": "91.9B"
+      "aum": "95.9B"
     },
     {
       "ticker": "BIL",
@@ -21,7 +21,7 @@
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
-      "aum": "46.1B"
+      "aum": "47.1B"
     },
     {
       "ticker": "SHV",
@@ -32,7 +32,7 @@
       "yield": 4.17,
       "duration": 0.27,
       "expense": 0.15,
-      "aum": "20.7B"
+      "aum": "20.9B"
     },
     {
       "ticker": "GBIL",
@@ -43,7 +43,7 @@
       "yield": 4.2,
       "duration": 0.25,
       "expense": 0.12,
-      "aum": "7.6B"
+      "aum": "7.7B"
     },
     {
       "ticker": "SCHO",
@@ -54,7 +54,7 @@
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
-      "aum": "13.2B"
+      "aum": "13.0B"
     },
     {
       "ticker": "XONE",
@@ -65,7 +65,7 @@
       "yield": 4.05,
       "duration": 0.95,
       "expense": 0.03,
-      "aum": "755M"
+      "aum": "771M"
     },
     {
       "ticker": "FTSD",
@@ -76,7 +76,7 @@
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "288M"
+      "aum": "294M"
     },
     {
       "ticker": "USFR",
@@ -87,7 +87,7 @@
       "yield": 4.28,
       "duration": 0.02,
       "expense": 0.15,
-      "aum": "17.0B"
+      "aum": "17.8B"
     },
     {
       "ticker": "TFLO",
@@ -109,7 +109,7 @@
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "2.9B"
+      "aum": "3.0B"
     },
     {
       "ticker": "FLOT",
@@ -120,7 +120,7 @@
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "9.5B"
+      "aum": "10.0B"
     },
     {
       "ticker": "JPST",
@@ -131,7 +131,7 @@
       "yield": 4.92,
       "duration": 0.48,
       "expense": 0.18,
-      "aum": "38.4B"
+      "aum": "39.3B"
     },
     {
       "ticker": "MINT",
@@ -142,7 +142,7 @@
       "yield": 4.98,
       "duration": 0.24,
       "expense": 0.36,
-      "aum": "16.2B"
+      "aum": "16.4B"
     },
     {
       "ticker": "ICSH",
@@ -153,7 +153,7 @@
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "7.6B"
+      "aum": "7.8B"
     },
     {
       "ticker": "GSY",
@@ -164,7 +164,7 @@
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "3.5B"
+      "aum": "3.6B"
     },
     {
       "ticker": "NEAR",
@@ -175,7 +175,7 @@
       "yield": 4.85,
       "duration": 0.52,
       "expense": 0.25,
-      "aum": "4.6B"
+      "aum": "4.8B"
     },
     {
       "ticker": "FTSM",
@@ -186,7 +186,7 @@
       "yield": 5.02,
       "duration": 0.55,
       "expense": 0.45,
-      "aum": "6.4B"
+      "aum": "6.5B"
     },
     {
       "ticker": "VUSB",
@@ -197,7 +197,7 @@
       "yield": 4.38,
       "duration": 0.5,
       "expense": 0.1,
-      "aum": "8.8B"
+      "aum": "8.9B"
     },
     {
       "ticker": "JAAA",
@@ -208,7 +208,7 @@
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "27.3B"
+      "aum": "28.4B"
     },
     {
       "ticker": "CLOA",
@@ -230,7 +230,7 @@
       "yield": 6.2,
       "duration": 0.1,
       "expense": 0.49,
-      "aum": "1.2B"
+      "aum": "1.3B"
     },
     {
       "ticker": "BOXX",
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "12.1B"
+      "aum": "12.7B"
     },
     {
       "ticker": "GFUND",
