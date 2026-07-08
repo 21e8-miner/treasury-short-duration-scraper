@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-07-08T21:04:52.831674+00:00",
+  "lastUpdated": "2026-07-08T23:04:04.631568+00:00",
   "products": [
     {
       "ticker": "SGOV",
       "name": "iShares 0-3 Month Treasury Bond",
       "type": "treasury",
       "stateExempt": true,
-      "price": 100.52,
+      "price": 100.46,
       "yield": 4.2,
       "duration": 0.05,
       "expense": 0.09,
-      "aum": "70.9B"
+      "aum": "95.9B"
     },
     {
       "ticker": "BIL",
