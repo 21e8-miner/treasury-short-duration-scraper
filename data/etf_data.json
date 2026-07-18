@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T09:22:07.433156+00:00",
+  "lastUpdated": "2026-07-18T11:02:06.011775+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -149,22 +149,22 @@
       "name": "iShares Ultra Short-Term Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.65,
+      "price": 50.5,
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "6.6B"
+      "aum": "7.8B"
     },
     {
       "ticker": "GSY",
       "name": "Invesco Ultra Short Duration ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.19,
+      "price": 50.24,
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "3.2B"
+      "aum": "3.6B"
     },
     {
       "ticker": "NEAR",
@@ -204,11 +204,11 @@
       "name": "Janus Henderson AAA CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 50.73,
+      "price": 50.57,
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "20.9B"
+      "aum": "28.4B"
     },
     {
       "ticker": "CLOA",
