@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T07:45:14.873037+00:00",
+  "lastUpdated": "2026-07-18T09:22:07.433156+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -50,11 +50,11 @@
       "name": "Schwab Short-Term U.S. Treasury ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 48.85,
+      "price": 24.09,
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
-      "aum": "10.2B"
+      "aum": "13.0B"
     },
     {
       "ticker": "XONE",
@@ -149,22 +149,22 @@
       "name": "iShares Ultra Short-Term Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.5,
+      "price": 50.65,
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
-      "aum": "7.8B"
+      "aum": "6.6B"
     },
     {
       "ticker": "GSY",
       "name": "Invesco Ultra Short Duration ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.24,
+      "price": 50.19,
       "yield": 4.95,
       "duration": 0.35,
       "expense": 0.22,
-      "aum": "3.6B"
+      "aum": "3.2B"
     },
     {
       "ticker": "NEAR",
@@ -204,11 +204,11 @@
       "name": "Janus Henderson AAA CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 50.57,
+      "price": 50.73,
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "28.4B"
+      "aum": "20.9B"
     },
     {
       "ticker": "CLOA",
