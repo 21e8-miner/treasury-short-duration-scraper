@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T04:14:13.643137+00:00",
+  "lastUpdated": "2026-07-23T07:31:08.792704+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -50,11 +50,11 @@
       "name": "Schwab Short-Term U.S. Treasury ETF",
       "type": "treasury",
       "stateExempt": true,
-      "price": 48.85,
+      "price": 24.06,
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
-      "aum": "10.2B"
+      "aum": "13.0B"
     },
     {
       "ticker": "XONE",
