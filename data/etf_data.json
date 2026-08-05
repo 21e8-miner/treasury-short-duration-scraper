@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T02:13:58.450637+00:00",
+  "lastUpdated": "2026-08-05T05:43:53.469783+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -204,11 +204,11 @@
       "name": "Janus Henderson AAA CLO ETF",
       "type": "clo",
       "stateExempt": false,
-      "price": 50.73,
+      "price": 50.51,
       "yield": 5.2,
       "duration": 0.1,
       "expense": 0.21,
-      "aum": "20.9B"
+      "aum": "28.4B"
     },
     {
       "ticker": "CLOA",
