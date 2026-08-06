@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:31:48.263209+00:00",
+  "lastUpdated": "2026-08-06T11:21:06.041713+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -21,7 +21,7 @@
       "yield": 4.19,
       "duration": 0.13,
       "expense": 0.14,
-      "aum": "47.1B"
+      "aum": "47.3B"
     },
     {
       "ticker": "SHV",
@@ -54,7 +54,7 @@
       "yield": 3.57,
       "duration": 1.9,
       "expense": 0.03,
-      "aum": "13.0B"
+      "aum": "12.9B"
     },
     {
       "ticker": "XONE",
@@ -76,7 +76,7 @@
       "yield": 4.15,
       "duration": 0.65,
       "expense": 0.25,
-      "aum": "294M"
+      "aum": "302M"
     },
     {
       "ticker": "USFR",
@@ -109,7 +109,7 @@
       "yield": 5.8,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "3.0B"
+      "aum": "3.1B"
     },
     {
       "ticker": "FLOT",
@@ -120,7 +120,7 @@
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
-      "aum": "10.0B"
+      "aum": "10.3B"
     },
     {
       "ticker": "JPST",
@@ -241,7 +241,7 @@
       "yield": 4.18,
       "duration": 0.17,
       "expense": 0.19,
-      "aum": "12.7B"
+      "aum": "13.3B"
     },
     {
       "ticker": "GFUND",
