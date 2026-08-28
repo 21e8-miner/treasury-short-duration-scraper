@@ -1,5 +1,14 @@
 # Treasury Short Duration Scraper
 
+Live short-duration treasury / ultra-short ETF dashboard — yields, duration, and tax-equivalent yield.
+
+**[Open the live dashboard](https://21e8-miner.github.io/treasury-short-duration-scraper/)**
+
+| | Link |
+|---|---|
+| **Live demo (GitHub Pages)** | https://21e8-miner.github.io/treasury-short-duration-scraper/ |
+| **GitHub repository** | https://github.com/21e8-miner/treasury-short-duration-scraper |
+
 This repository provides a real-time scraping and visualization tool for treasury-related data with a focus on short-duration financial instruments. Utilizing a combination of Python for backend data-fetching and Chart.js for frontend visualization, it enables users to access, monitor, and analyze treasury market trends dynamically.
 
 ## Features
