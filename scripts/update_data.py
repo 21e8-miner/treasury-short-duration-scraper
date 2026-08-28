@@ -75,8 +75,10 @@ PRODUCTS = [
 
 # Non-ETF products that can't be fetched from Yahoo Finance
 MANUAL_PRODUCTS = [
+    # TSP G Fund total expense ratio as of 12/31/2025: 0.034% admin (3.4 bps);
+    # investment expense is 0. See https://www.tsp.gov/funds-individual/g-fund/
     {"ticker": "GFUND", "name": "TSP G Fund (Government Securities)", "type": "treasury", "stateExempt": True,
-     "price": 19.50, "yield": 4.25, "duration": 0.00, "expense": 0.00, "aum": "230B",
+     "price": 19.50, "yield": 4.25, "duration": 0.00, "expense": 0.034, "aum": "230B",
      "url": "https://www.tsp.gov/funds-individual/g-fund/"},
 ]
 
