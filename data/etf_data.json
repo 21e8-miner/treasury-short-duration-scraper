@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T14:07:44.286124+00:00",
+  "lastUpdated": "2026-09-08T18:17:37.052787+00:00",
   "products": [
     {
       "ticker": "SGOV",
@@ -116,7 +116,7 @@
       "name": "iShares Floating Rate Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.91,
+      "price": 50.9,
       "yield": 5.45,
       "duration": 0.01,
       "expense": 0.15,
@@ -149,7 +149,7 @@
       "name": "iShares Ultra Short-Term Bond ETF",
       "type": "corporate",
       "stateExempt": false,
-      "price": 50.41,
+      "price": 50.42,
       "yield": 4.78,
       "duration": 0.38,
       "expense": 0.08,
